@@ -3,7 +3,7 @@
 	$host = 'localhost';
 	$user = 'root';
 	$pass = '';
-	$ddbb = 'crud';
+	$ddbb = 'php-crud';
 	$conn = mysqli_connect($host,$user,$pass,$ddbb);
 	
 ?>
